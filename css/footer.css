@@ -103,16 +103,14 @@
     padding: 8px 24px 8px 24px;
 }
 
+
 .footer-form button {
     display: flex;
     align-items: center;
     gap: 16px;
     
 }
-.subscribe-button {
-font-weight: 500;
-    letter-spacing: 0.04em;
-}
+
 
 .footer-form button:hover,
 .footer-form button:focus {
