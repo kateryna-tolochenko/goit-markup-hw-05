@@ -112,6 +112,19 @@
 }
 
 
+.subscribe-title {
+    margin-bottom: 16px;
+
+    font-size: 16px;
+    font-weight: 500;
+
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+
+    color: #ffffff;
+}
+
+
 .footer-form button:hover,
 .footer-form button:focus {
     background-color: #31d0aa;
