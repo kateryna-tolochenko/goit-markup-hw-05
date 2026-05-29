@@ -21,7 +21,7 @@
 
 }
 
-modal-overlay.is-open {
+.modal-overlay.is-open {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
